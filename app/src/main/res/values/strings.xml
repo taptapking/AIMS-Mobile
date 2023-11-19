@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AIMS Mobile</string>
+    <string name="inbox">Product list</string>
+    <string name="cart">Cart</string>
+    <string name="cannot_add">This item is already in the cart</string>
+    <string name="added">This item has been added to the cart</string>
+    <string name="error">An error occured</string>
+    <string name="name_1">Sony HVR-Z1E</string>
+    <string name="name_2">Sony HVR-V1E</string>
+    <string name="name_3">Sony HVR-Z7E</string>
+    <string name="name_4">Sony HVR-S270E</string>
+    <string name="name_5">Sony HVR-Z5E</string>
+    <string name="name_6">Sony DSR-PD177P</string>
+    <string name="name_7">Sony DSR-PD150P</string>
+    <string name="name_8">Sony DSR-PD170P</string>
+    <string name="name_9">Sony DSR-200P</string>
+    <string name="name_10">Sony DSR-250P</string>
+    <string name="name_11">Sony DSR-390P</string>
+    <string name="name_12">Sony DSR-570WSP</string>
+    <string name="name_13">Sony DSR-400P</string>
+    <string name="name_14">Sony DSR-450WSP</string>
+    <string name="name_15">Sony DSR-PD1</string>
+    <string name="name_16">Sony DSR-PD100</string>
+    <string name="name_17">Sony DSR-PDX10</string>
+    <string name="name_18">Sony HVR-A1E</string>
+    <string name="name_19">Sony HDR-FX1E</string>
+    <string name="name_20">Sony HDR-FX1000E</string>
+    <string name="name_21">Sony HDR-FX7E</string>
+    <string name="name_22">Panasonic HVX200</string>
+    <string name="name_23">Panasonic DVX100</string>
+    <string name="name_24">Panasonic HPX170</string>
+    <string name="name_25">Panasonic HMC150</string>
+    <string name="name_26">JVC GR-DV1</string>
+    <string name="name_27">JVC GR-HD1</string>
+    <string name="name_28">JVC GR-HD100</string>
+</resources>
